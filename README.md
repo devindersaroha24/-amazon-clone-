@@ -1,3 +1,3 @@
 # Cloning Amazon site with HTML & CSS
 
-The source code and assistance guide for the [IronHack's](http://ironhack.com) "Cloning Amazon site with HTML & CSS" video tutorial.
+Its an eCommerce app inspired from Amazon, big Basket, Grofers, Flipkart Etc
